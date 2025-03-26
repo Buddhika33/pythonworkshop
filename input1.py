@@ -1,2 +1,2 @@
-yourname=str(input("enter your string: "))
-print(yourname)
+yourname1=str(input("enter your string: "))
+print(yourname1)
